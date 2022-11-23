@@ -9,21 +9,24 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "p5": "^1.5.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-p5-wrapper": "^3.4.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.9",
+    "@types/p5": "^1.4.3",
     "@vitejs/plugin-react": "^2.2.0",
-    "typescript": "^4.9.3",
-    "vite": "^3.2.4",
     "eslint": "^8.28.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-import-resolver-typescript": "^3.5.2",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-react": "^7.31.11",
     "eslint-plugin-react-hooks": "^4.6.0",
-    "prettier": "^2.7.1"
+    "prettier": "^2.7.1",
+    "typescript": "^4.9.3",
+    "vite": "^3.2.4"
   }
 }
