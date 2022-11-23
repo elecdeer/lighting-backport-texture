@@ -9,15 +9,19 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.4.1",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "framer-motion": "^7.6.9",
     "p5": "^1.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-p5-wrapper": "^3.4.0"
   },
   "devDependencies": {
+    "@types/p5": "^1.4.3",
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.9",
-    "@types/p5": "^1.4.3",
     "@vitejs/plugin-react": "^2.2.0",
     "eslint": "^8.28.0",
     "eslint-config-prettier": "^8.5.0",
