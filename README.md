@@ -1,1 +1,1 @@
-# threejs-lighting-backport-texture
+# lighting-backport-texture
